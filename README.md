@@ -1,2 +1,2 @@
 # draw
-javascript、jquery、blog、vue等以及其他等效果图
+javascript、jquery、blog、vue 以及 其他等效果图。
